@@ -54,15 +54,6 @@ Includes predefined Turing Machines for:
 * Accept and reject state indicators
 * Undefined transition detection
 
-## Screenshots
-
-Add screenshots of:
-
-* Main interface
-* Tape visualization
-* JSON rules editor
-* Execution logs
-* Accepted and rejected machine states
 
 ## Installation
 
