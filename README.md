@@ -60,7 +60,7 @@ Includes predefined Turing Machines for:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/turing-machine-visualizer-python.git
+git clone https://github.com/muhammadumair99/Turing-Machine-Visualizer-Python
 cd turing-machine-visualizer-python
 ```
 
